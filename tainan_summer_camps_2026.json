@@ -1,13 +1,14 @@
 {
   "metadata": {
     "title": "2026 台南夏令營資訊整理",
-    "query": "Google 搜尋：台南 夏令營 2026",
+    "query": "Google 搜尋：台南 夏令營 2026；追加搜尋：2026 台南 夏令營 國小 國中 高中 營隊",
     "collected_at": "2026-04-27",
     "timezone": "Asia/Taipei",
     "notes": [
       "以下整理以公開網頁可查到的 2026 年暑期營隊資訊為主。",
       "費用、名額與場地可能變動，報名前仍應以各活動官方頁面為準。",
-      "圖片為各活動頁或報名頁公開顯示的代表性圖片，已儲存在 images 目錄。"
+      "圖片為各活動頁或報名頁公開顯示的代表性圖片，已儲存在 images 目錄。",
+      "2026-04-27 追加 20 筆不重複營隊資料，來源包含小史塔克實驗室、全台攏學與 Fun暑假夏令營。"
     ],
     "image_directory": "/Users/chunjoe1/Downloads/電腦/tainan_summer_camps/images"
   },
@@ -16,7 +17,11 @@
       "id": "tainan-camp-001",
       "name": "2026 夏令營｜6天5夜經典營",
       "organizer": "Outward Bound Taiwan",
-      "category": ["戶外冒險", "過夜營", "韌性與團隊"],
+      "category": [
+        "戶外冒險",
+        "過夜營",
+        "韌性與團隊"
+      ],
       "location": {
         "city": "台南市",
         "venue": "柳營尖山埤渡假村集合",
@@ -47,13 +52,19 @@
       "id": "tainan-camp-002",
       "name": "2026年台南號角教會兒童夏令營",
       "organizer": "台南號角教會",
-      "category": ["兒童營", "品格教育", "教會活動"],
+      "category": [
+        "兒童營",
+        "品格教育",
+        "教會活動"
+      ],
       "location": {
         "city": "台南市",
         "venue": "台南號角教會",
         "address": "台南市中西區西湖街216號"
       },
-      "dates": ["2026-07-02 至 2026-07-04"],
+      "dates": [
+        "2026-07-02 至 2026-07-04"
+      ],
       "time": "每日 14:00-17:00",
       "target_age": "4歲以上至國中三年級學生",
       "price": {
@@ -74,7 +85,11 @@
       "id": "tainan-camp-003",
       "name": "魔法烘焙家 2026夏令營 小職人班",
       "organizer": "WINWIN打包勝利／魔法烘焙DIY",
-      "category": ["烘焙", "小職人", "藝術創作"],
+      "category": [
+        "烘焙",
+        "小職人",
+        "藝術創作"
+      ],
       "location": {
         "city": "台南市",
         "venue": "魔法烘焙DIY",
@@ -104,7 +119,11 @@
       "id": "tainan-camp-004",
       "name": "3D自造夏令營 2026夏令營 小職人班",
       "organizer": "WINWIN打包勝利",
-      "category": ["3D列印", "創客", "科技"],
+      "category": [
+        "3D列印",
+        "創客",
+        "科技"
+      ],
       "location": {
         "city": "台南市",
         "venue": "台南市東區教室",
@@ -141,13 +160,19 @@
       "id": "tainan-camp-005",
       "name": "2026 Fun暑假夏令營 手作營基礎班",
       "organizer": "Fun暑假夏令營",
-      "category": ["手作", "多元才藝", "校園營"],
+      "category": [
+        "手作",
+        "多元才藝",
+        "校園營"
+      ],
       "location": {
         "city": "台南市",
         "venue": "成功大學",
         "address": "台南市東區，成功大學場地"
       },
-      "dates": ["2026-07-06 至 2026-07-10"],
+      "dates": [
+        "2026-07-06 至 2026-07-10"
+      ],
       "time": "上午 09:00-12:00 動態及趣味課程；下午 13:20-16:30 主題手作課程",
       "target_age": "適合第一次參加 Fun 暑假夏令營的小朋友；頁面未列明年級",
       "price": {
@@ -167,7 +192,11 @@
       "id": "tainan-camp-006",
       "name": "2026 臺南市新市全民運動中心 新動運動營",
       "organizer": "臺南市新市全民運動中心",
-      "category": ["運動", "國小營", "室內活動"],
+      "category": [
+        "運動",
+        "國小營",
+        "室內活動"
+      ],
       "location": {
         "city": "台南市",
         "venue": "中信科技大學體育館",
@@ -203,13 +232,19 @@
       "id": "tainan-camp-007",
       "name": "2026 國小生職業體驗夏令營 台南場",
       "organizer": "職掘",
-      "category": ["職業體驗", "未來探索", "國小營"],
+      "category": [
+        "職業體驗",
+        "未來探索",
+        "國小營"
+      ],
       "location": {
         "city": "台南市",
         "venue": "台南文創園區，2D-3曙工坊、2C七七展演廳",
         "address": "台南市東區北門路二段16號"
       },
-      "dates": ["2026-07-13 至 2026-07-17"],
+      "dates": [
+        "2026-07-13 至 2026-07-17"
+      ],
       "time": "09:00-16:30，不過夜",
       "target_age": "建議小三至小六",
       "price": {
@@ -230,13 +265,19 @@
       "id": "tainan-camp-008",
       "name": "小大人表達學院 2026夏令營 邏輯思維表達營 台南場",
       "organizer": "小大人表達學院",
-      "category": ["表達力", "邏輯思辨", "兒童演說"],
+      "category": [
+        "表達力",
+        "邏輯思辨",
+        "兒童演說"
+      ],
       "location": {
         "city": "台南市",
         "venue": "公園大道商務共享中心",
         "address": "台南市永康區成功里中華路144-1號B1"
       },
-      "dates": ["2026-08-10 至 2026-08-14"],
+      "dates": [
+        "2026-08-10 至 2026-08-14"
+      ],
       "time": "09:00-16:30",
       "target_age": "6至12歲國小階段；平均落在小二至小六",
       "price": {
@@ -256,7 +297,12 @@
       "id": "tainan-camp-009",
       "name": "千碩創新教育 2026國小夏令營 台南場",
       "organizer": "千碩創新教育",
-      "category": ["AI", "STEAM", "醫學探究", "國小營"],
+      "category": [
+        "AI",
+        "STEAM",
+        "醫學探究",
+        "國小營"
+      ],
       "location": {
         "city": "台南市",
         "venue": "千碩創新教育台南據點",
@@ -285,13 +331,21 @@
       "id": "tainan-camp-010",
       "name": "2026年第四十四屆大墩陽光兒童夏令營",
       "organizer": "中華民國大墩教育推廣協會",
-      "category": ["綜合營隊", "科學", "藝術", "運動", "冒險"],
+      "category": [
+        "綜合營隊",
+        "科學",
+        "藝術",
+        "運動",
+        "冒險"
+      ],
       "location": {
         "city": "台南市",
         "venue": "台南場地依各營隊與報名網站公告",
         "address": "詳細場地以大墩陽光報名網站為準"
       },
-      "dates": ["2026-07-06 至 2026-08-28"],
+      "dates": [
+        "2026-07-06 至 2026-08-28"
+      ],
       "time": "依各營隊項目而定",
       "target_age": "多數項目為國小生；冒險過夜營及偏鄉志工服務隊另提供國小、國高中組",
       "price": {
@@ -306,6 +360,656 @@
         "file_name": "10_sng_sunshine.jpg",
         "source_url": "https://www.sng.idv.tw/Archive/_tw/camps/2603139857.jpg",
         "caption": "大墩陽光報名網站營隊代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-011",
+      "name": "腦科學讀書法訓練營",
+      "organizer": "小史塔克實驗室",
+      "category": [
+        "學習方法",
+        "腦科學",
+        "科學"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "國中組：2026-07-06 至 2026-07-10",
+        "國小中高年級組：2026-07-13 至 2026-07-17",
+        "國中組：2026-08-17 至 2026-08-21"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "國小中高年級至國中生",
+      "price": {
+        "amount_twd": 11000,
+        "note": "小史塔克 2026 暑假總覽頁標示 NT$11,000。"
+      },
+      "description": "以腦科學角度理解記憶、專注與讀書流程，五天整理出可持續使用的學習工具箱。",
+      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "representative_image": {
+        "local_path": "images/11_stark_brain_study.avif",
+        "file_name": "11_stark_brain_study.avif",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/AZajx5K9lEmApmPAlPJR4Wd2/original-2.png.avif",
+        "caption": "小史塔克腦科學讀書法訓練營課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-012",
+      "name": "機智醫生實習營",
+      "organizer": "小史塔克實驗室",
+      "category": [
+        "醫學體驗",
+        "科學",
+        "國小營"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "2026-07-13 至 2026-07-17"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "8-12歲",
+      "price": {
+        "amount_twd": 9000,
+        "note": "小史塔克 2026 暑假總覽頁標示 NT$9,000。"
+      },
+      "description": "穿上白袍，用實作方式認識醫學與人體科學，適合國小階段孩子做職涯與科學探索。",
+      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "representative_image": {
+        "local_path": "images/12_stark_medical.jpg",
+        "file_name": "12_stark_medical.jpg",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/Gr1Lb8a63ZLXKVbvNEAXx24D/original.jpg",
+        "caption": "小史塔克機智醫生實習營課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-013",
+      "name": "KidWind 亞洲聯賽選手遴選培訓營",
+      "organizer": "小史塔克實驗室",
+      "category": [
+        "風力發電",
+        "STEAM",
+        "競賽培訓"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "2026-08-17 至 2026-08-21"
+      ],
+      "time": "5日營，約 40 小時培訓",
+      "target_age": "10歲至高中生",
+      "price": {
+        "amount_twd": 18000,
+        "note": "小史塔克 2026 暑假總覽頁標示 NT$18,000。"
+      },
+      "description": "以風力發電與能源設計為核心，培養 KidWind 亞洲聯賽儲備選手的實作與問題解決能力。",
+      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "representative_image": {
+        "local_path": "images/13_stark_kidwind.jpg",
+        "file_name": "13_stark_kidwind.jpg",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/o4a0bwXWNWb4zRVjlGgE1yzv/original.jpg",
+        "caption": "KidWind 風力發電培訓課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-014",
+      "name": "EQ大作戰：解謎島大冒險",
+      "organizer": "小史塔克實驗室／玩轉學校",
+      "category": [
+        "情緒教育",
+        "遊戲式學習",
+        "國小營"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "2026-08-03 至 2026-08-07"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "6-10歲，升小二至升小四",
+      "price": {
+        "amount_twd": 11000,
+        "note": "小史塔克 2026 暑假總覽頁標示玩轉學校系列 NT$11,000。"
+      },
+      "description": "透過解謎與角色任務練習情緒辨識、表達與合作，是玩轉學校低年級組暑期課程。",
+      "source_url": "https://starklabtw.1shop.tw/pleyschool2026summer",
+      "representative_image": {
+        "local_path": "images/14_stark_pleyschool.jpg",
+        "file_name": "14_stark_pleyschool.jpg",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/xWLzk147Y7ge9jjdYV8mGo9O/original.jpg",
+        "caption": "玩轉學校暑期開團課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-015",
+      "name": "世界和平遊戲",
+      "organizer": "小史塔克實驗室／玩轉學校",
+      "category": [
+        "議題思辨",
+        "遊戲式學習",
+        "國小國中"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "2026-08-03 至 2026-08-07"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "10-14歲，升小五至國二",
+      "price": {
+        "amount_twd": 11000,
+        "note": "小史塔克 2026 暑假總覽頁標示玩轉學校系列 NT$11,000。"
+      },
+      "description": "以大型情境遊戲練習公共議題分析、談判與團隊決策，適合高年級到國中學生。",
+      "source_url": "https://starklabtw.1shop.tw/pleyschool2026summer",
+      "representative_image": {
+        "local_path": "images/14_stark_pleyschool.jpg",
+        "file_name": "14_stark_pleyschool.jpg",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/xWLzk147Y7ge9jjdYV8mGo9O/original.jpg",
+        "caption": "玩轉學校暑期開團課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-016",
+      "name": "鬧野孩體驗營",
+      "organizer": "小史塔克實驗室／玩轉學校",
+      "category": [
+        "體驗學習",
+        "遊戲式學習",
+        "國小營"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "2026-08-10 至 2026-08-14"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "6-10歲，升小二至升小四",
+      "price": {
+        "amount_twd": 11000,
+        "note": "小史塔克 2026 暑假總覽頁標示玩轉學校系列 NT$11,000。"
+      },
+      "description": "用議題式遊戲和體驗任務帶孩子踏出舒適圈，練習觀察、合作與表達。",
+      "source_url": "https://starklabtw.1shop.tw/pleyschool2026summer",
+      "representative_image": {
+        "local_path": "images/14_stark_pleyschool.jpg",
+        "file_name": "14_stark_pleyschool.jpg",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/xWLzk147Y7ge9jjdYV8mGo9O/original.jpg",
+        "caption": "玩轉學校暑期開團課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-017",
+      "name": "社會創新創業",
+      "organizer": "小史塔克實驗室／玩轉學校",
+      "category": [
+        "創業思維",
+        "議題思辨",
+        "國小國中"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "2026-08-10 至 2026-08-14"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "10-14歲，升小五至國二",
+      "price": {
+        "amount_twd": 11000,
+        "note": "小史塔克 2026 暑假總覽頁標示玩轉學校系列 NT$11,000。"
+      },
+      "description": "從社會問題觀察出發，讓孩子以團隊方式提出創新方案，練習企劃、溝通與提案。",
+      "source_url": "https://starklabtw.1shop.tw/pleyschool2026summer",
+      "representative_image": {
+        "local_path": "images/14_stark_pleyschool.jpg",
+        "file_name": "14_stark_pleyschool.jpg",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/xWLzk147Y7ge9jjdYV8mGo9O/original.jpg",
+        "caption": "玩轉學校暑期開團課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-018",
+      "name": "恐龍考古探索營",
+      "organizer": "小史塔克實驗室",
+      "category": [
+        "恐龍考古",
+        "科學探索",
+        "國小營"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "2026-08-03 至 2026-08-07"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "7-12歲",
+      "price": {
+        "amount_twd": 9000,
+        "note": "小史塔克 2026 暑假總覽頁標示 NT$9,000；總覽頁標示此梯已包班。"
+      },
+      "description": "以恐龍與化石考古為主題，透過科學觀察與實作任務建立自然史探索經驗。",
+      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "representative_image": {
+        "local_path": "images/18_stark_dinosaur.jpg",
+        "file_name": "18_stark_dinosaur.jpg",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/DoBrmR7VlwMgJW8oY8wbGZKL/original.jpg",
+        "caption": "小史塔克恐龍考古探索營課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-019",
+      "name": "國小自然實驗精選 I",
+      "organizer": "小史塔克實驗室",
+      "category": [
+        "自然實驗",
+        "STEAM",
+        "國小營"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "2026-08-10 至 2026-08-14"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "8-12歲",
+      "price": {
+        "amount_twd": 9000,
+        "note": "小史塔克 2026 暑假總覽頁標示 NT$9,000。"
+      },
+      "description": "精選國小自然科學實驗，讓孩子透過操作、觀察與記錄建立科學探究能力。",
+      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "representative_image": {
+        "local_path": "images/19_stark_elementary_science.avif",
+        "file_name": "19_stark_elementary_science.avif",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/BoQZq74kYmWoJvVQl5PMywAK/1920x-2.jpg.avif",
+        "caption": "小史塔克國小自然實驗精選系列課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-020",
+      "name": "國小自然實驗精選 II",
+      "organizer": "小史塔克實驗室",
+      "category": [
+        "自然實驗",
+        "STEAM",
+        "國小營"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "2026-08-24 至 2026-08-28"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "8-12歲",
+      "price": {
+        "amount_twd": 9000,
+        "note": "小史塔克 2026 暑假總覽頁標示 NT$9,000。"
+      },
+      "description": "延伸國小自然實驗精選系列，以動手做的方式補強自然科概念與實驗技能。",
+      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "representative_image": {
+        "local_path": "images/19_stark_elementary_science.avif",
+        "file_name": "19_stark_elementary_science.avif",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/BoQZq74kYmWoJvVQl5PMywAK/1920x-2.jpg.avif",
+        "caption": "小史塔克國小自然實驗精選系列課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-021",
+      "name": "南一中科學班實驗集訓",
+      "organizer": "小史塔克實驗室",
+      "category": [
+        "科學班",
+        "實驗集訓",
+        "國中升學"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "小史塔克實驗室",
+        "address": "台南市安平區國平路417號"
+      },
+      "dates": [
+        "2026-07-06 至 2026-07-10"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "升國三，準備科學班考試學生",
+      "price": {
+        "amount_twd": 9000,
+        "note": "小史塔克 2026 暑假總覽頁標示 NT$9,000。"
+      },
+      "description": "針對科學班考試需求設計的實驗與科學能力集訓，協助學生整理操作與應試基礎。",
+      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "representative_image": {
+        "local_path": "images/21_stark_senior_science.avif",
+        "file_name": "21_stark_senior_science.avif",
+        "source_url": "https://img.1shop.tw/QpDLWV9YyNx2B1AakEO8Jxw3/BoQZq74kYmWoJvkPl5PMywAK/1920x-2.jpg.avif",
+        "caption": "小史塔克南一中科學班實驗集訓課程情境圖"
+      }
+    },
+    {
+      "id": "tainan-camp-022",
+      "name": "解剖學到急救技能訓練雙證班—醫心動魄",
+      "organizer": "全台攏學",
+      "category": [
+        "醫學",
+        "急救證照",
+        "高中營隊"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "成大成杏校區教室與實驗室",
+        "address": "台南市北區成大成杏校區小東路55號5F教室與實驗室"
+      },
+      "dates": [
+        "2026-07-10 至 2026-07-12"
+      ],
+      "time": "依課程頁公告",
+      "target_age": "高中生／13歲以上，詳見課程頁",
+      "price": {
+        "amount_twd": 9900,
+        "note": "全台攏學課程頁標示 NT$9,900。"
+      },
+      "description": "結合解剖學與急救技能訓練，主打雙證班與醫學實作體驗。",
+      "registration_deadline": "2026-07-10",
+      "source_url": "https://www.luyiacademy.com/course/af2026-234",
+      "representative_image": {
+        "local_path": "images/22_luyi_first_aid_anatomy.png",
+        "file_name": "22_luyi_first_aid_anatomy.png",
+        "source_url": "https://www.luyiacademy.com/data/course/images/1742285703901096853.png",
+        "caption": "全台攏學解剖學到急救技能訓練雙證班代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-023",
+      "name": "2026暑假 醫學解剖學應用營：解剖學是你不能跳過的第一課",
+      "organizer": "全台攏學",
+      "category": [
+        "醫學",
+        "解剖學",
+        "高中營隊"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "成大成杏校區教室與實驗室",
+        "address": "台南市北區成大成杏校區小東路55號5F教室與實驗室"
+      },
+      "dates": [
+        "2026-07-02 至 2026-08-23（7月一梯、8月二梯）"
+      ],
+      "time": "依課程頁公告",
+      "target_age": "高中生／13歲以上，詳見課程頁",
+      "price": {
+        "amount_twd": 12800,
+        "note": "全台攏學課程頁標示 NT$12,800。"
+      },
+      "description": "從基礎解剖學切入，帶學生理解醫學院相關知識與實作情境。",
+      "registration_deadline": "2026-08-19",
+      "source_url": "https://www.luyiacademy.com/course/Anatomy-2026-386",
+      "representative_image": {
+        "local_path": "images/23_luyi_anatomy.png",
+        "file_name": "23_luyi_anatomy.png",
+        "source_url": "https://www.luyiacademy.com/data/course/images/1760339840777159583.png",
+        "caption": "全台攏學醫學解剖學應用營代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-024",
+      "name": "2026華佗醫學營｜探本尋方：未來中醫人的第一步",
+      "organizer": "全台攏學",
+      "category": [
+        "中醫",
+        "醫學",
+        "高中營隊"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "太子文旅／成大力行校區／崇學馬光中醫診所",
+        "address": "台南市北區與東區，依課程頁集合資訊為準"
+      },
+      "dates": [
+        "2026-07-10 至 2026-07-13"
+      ],
+      "time": "依課程頁公告",
+      "target_age": "高中生／13歲以上，詳見課程頁",
+      "price": {
+        "amount_twd": 11800,
+        "note": "全台攏學課程頁標示 NT$11,800。"
+      },
+      "description": "以中醫與五臟六腑概念為主軸，安排醫學探索與實作體驗。",
+      "registration_deadline": "2026-07-10",
+      "source_url": "https://www.luyiacademy.com/course/Traditional-Chinese-Medicine-2026-438",
+      "representative_image": {
+        "local_path": "images/24_luyi_huatuo.png",
+        "file_name": "24_luyi_huatuo.png",
+        "source_url": "https://www.luyiacademy.com/data/course/images/1776617300119077644.png",
+        "caption": "全台攏學華佗醫學營代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-025",
+      "name": "2026暑假 創新設計營：跟全臺設計大師學創造未來經典",
+      "organizer": "全台攏學",
+      "category": [
+        "創新設計",
+        "設計思考",
+        "高中營隊"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "成大勝利校區／太子文旅集合",
+        "address": "台南市東區成大勝利校區大學路2號／太子文旅集合"
+      },
+      "dates": [
+        "2026-07-10 至 2026-07-13"
+      ],
+      "time": "依課程頁公告",
+      "target_age": "高中生／13歲以上，詳見課程頁",
+      "price": {
+        "amount_twd": 11800,
+        "note": "全台攏學課程頁標示 NT$11,800。"
+      },
+      "description": "從發想到提案，讓學生透過設計流程完成創意問題解決與成果呈現。",
+      "registration_deadline": "2026-07-10",
+      "source_url": "https://www.luyiacademy.com/course/design-camp-400",
+      "representative_image": {
+        "local_path": "images/25_luyi_design.png",
+        "file_name": "25_luyi_design.png",
+        "source_url": "https://www.luyiacademy.com/data/course/images/1760601266485593202.png",
+        "caption": "全台攏學創新設計營代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-026",
+      "name": "2026暑假 法律實作營：從模擬法庭到正義思辨的終極對決",
+      "organizer": "全台攏學",
+      "category": [
+        "法律",
+        "模擬法庭",
+        "高中營隊"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "成大勝利校區／太子文旅集合",
+        "address": "台南市東區成大勝利校區大學路2號／太子文旅集合"
+      },
+      "dates": [
+        "2026-07-07 至 2026-08-27（7月一梯、8月二梯）"
+      ],
+      "time": "依課程頁公告",
+      "target_age": "高中生／13歲以上，詳見課程頁",
+      "price": {
+        "amount_twd": 10800,
+        "note": "全台攏學課程頁標示 NT$10,800。"
+      },
+      "description": "以案例解析、模擬法庭與正義思辨為核心，讓學生體驗法律推理與現場實戰。",
+      "registration_deadline": "2026-07-07",
+      "source_url": "https://www.luyiacademy.com/course/law-camp-421",
+      "representative_image": {
+        "local_path": "images/26_luyi_law.png",
+        "file_name": "26_luyi_law.png",
+        "source_url": "https://www.luyiacademy.com/data/course/images/1761988344026358424.png",
+        "caption": "全台攏學法律實作營代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-027",
+      "name": "2026暑假 生成式AI短影音資策會認證班",
+      "organizer": "全台攏學",
+      "category": [
+        "生成式AI",
+        "短影音",
+        "證照課程"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "成大勝利校區／太子文旅集合",
+        "address": "台南市東區成大勝利校區大學路2號／太子文旅集合"
+      },
+      "dates": [
+        "2026-07-14 至 2026-07-17"
+      ],
+      "time": "依課程頁公告",
+      "target_age": "高中生／13歲以上，詳見課程頁",
+      "price": {
+        "amount_twd": 12000,
+        "note": "全台攏學課程頁標示 NT$12,000。"
+      },
+      "description": "一站式完成企劃、生成式 AI 應用、剪輯與短影音作品，並搭配資策會認證。",
+      "registration_deadline": "2026-07-14",
+      "source_url": "https://www.luyiacademy.com/course.php?act=view&id=561",
+      "representative_image": {
+        "local_path": "images/27_luyi_ai_video.png",
+        "file_name": "27_luyi_ai_video.png",
+        "source_url": "https://www.luyiacademy.com/data/course/images/1776594483987138442.png",
+        "caption": "全台攏學生成式AI短影音認證班代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-028",
+      "name": "2026生成式AI與Arduino智慧系統開發",
+      "organizer": "全台攏學",
+      "category": [
+        "生成式AI",
+        "Arduino",
+        "科技實作"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "成大勝利校區／太子文旅集合",
+        "address": "台南市東區成大勝利校區大學路2號／太子文旅集合"
+      },
+      "dates": [
+        "2026-07-10 至 2026-07-13"
+      ],
+      "time": "依課程頁公告",
+      "target_age": "高中生／13歲以上，詳見課程頁",
+      "price": {
+        "amount_twd": 11800,
+        "note": "全台攏學課程頁標示 NT$11,800。"
+      },
+      "description": "結合生成式 AI 與 Arduino，打造會思考的互動裝置與智慧系統原型。",
+      "registration_deadline": "2026-07-10",
+      "source_url": "https://www.luyiacademy.com/course/ai-system-camp-257",
+      "representative_image": {
+        "local_path": "images/28_luyi_ai_arduino.jpeg",
+        "file_name": "28_luyi_ai_arduino.jpeg",
+        "source_url": "https://www.luyiacademy.com/data/course/images/1776661023081101723.jpeg",
+        "caption": "全台攏學生成式AI與Arduino智慧系統開發代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-029",
+      "name": "2026 復健醫學營：高中生醫療體驗營",
+      "organizer": "全台攏學",
+      "category": [
+        "復健醫學",
+        "物理治療",
+        "高中營隊"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "成大勝利校區太子文旅集合",
+        "address": "台南市東區大學路2號"
+      },
+      "dates": [
+        "2026-07-03 至 2026-07-06"
+      ],
+      "time": "依課程頁公告",
+      "target_age": "高中生／13歲以上，詳見課程頁",
+      "price": {
+        "amount_twd": 11800,
+        "note": "全台攏學課程頁標示 NT$11,800。"
+      },
+      "description": "以人體動作、運動傷害、物理治療與職能治療實作為主軸的高中醫療體驗營。",
+      "registration_deadline": "2026-07-03",
+      "source_url": "https://www.luyiacademy.com/course/2026-rehabilitation-camp-382",
+      "representative_image": {
+        "local_path": "images/29_luyi_rehabilitation.png",
+        "file_name": "29_luyi_rehabilitation.png",
+        "source_url": "https://www.luyiacademy.com/data/course/images/1760163040600917945.png",
+        "caption": "全台攏學復健醫學營代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-030",
+      "name": "未來領袖系列【小小天才科學家Ⅰ】",
+      "organizer": "Fun暑假夏令營",
+      "category": [
+        "科學",
+        "未來領袖",
+        "國小國中"
+      ],
+      "location": {
+        "city": "台南市",
+        "venue": "成功大學",
+        "address": "台南市東區，成功大學"
+      },
+      "dates": [
+        "2026-07-14 至 2026-07-18"
+      ],
+      "time": "5日營，詳細每日時段依課程頁公告",
+      "target_age": "9-15歲，對科學有濃厚興趣的小朋友",
+      "price": {
+        "amount_twd": 10800,
+        "note": "Fun暑假夏令營頁面標示 10,800 元。"
+      },
+      "description": "未來領袖系列科學營，與大學教授共同開發課程，帶孩子探索科學主題與實作活動。",
+      "source_url": "https://fun-camp.com.tw/cart/233",
+      "representative_image": {
+        "local_path": "images/30_fun_scientist.jpg",
+        "file_name": "30_fun_scientist.jpg",
+        "source_url": "https://fun-camp.com.tw/userfiles/shop-1/image/%E7%A7%91%E5%AD%B8%E7%87%9F%20.jpg",
+        "caption": "Fun暑假夏令營小小天才科學家代表圖"
       }
     }
   ]

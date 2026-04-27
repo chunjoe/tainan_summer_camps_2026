@@ -1,0 +1,312 @@
+{
+  "metadata": {
+    "title": "2026 台南夏令營資訊整理",
+    "query": "Google 搜尋：台南 夏令營 2026",
+    "collected_at": "2026-04-27",
+    "timezone": "Asia/Taipei",
+    "notes": [
+      "以下整理以公開網頁可查到的 2026 年暑期營隊資訊為主。",
+      "費用、名額與場地可能變動，報名前仍應以各活動官方頁面為準。",
+      "圖片為各活動頁或報名頁公開顯示的代表性圖片，已儲存在 images 目錄。"
+    ],
+    "image_directory": "/Users/chunjoe1/Downloads/電腦/tainan_summer_camps/images"
+  },
+  "camps": [
+    {
+      "id": "tainan-camp-001",
+      "name": "2026 夏令營｜6天5夜經典營",
+      "organizer": "Outward Bound Taiwan",
+      "category": ["戶外冒險", "過夜營", "韌性與團隊"],
+      "location": {
+        "city": "台南市",
+        "venue": "柳營尖山埤渡假村集合",
+        "address": "台南市柳營區尖山埤周邊"
+      },
+      "dates": [
+        "國小組：2026-07-06 至 2026-07-11",
+        "國中組：2026-07-13 至 2026-07-18"
+      ],
+      "time": "6天5夜",
+      "target_age": "國小組：升小四至升小六；國中組：升國一至升高一",
+      "price": {
+        "amount_twd": 22400,
+        "original_amount_twd": 28000,
+        "note": "頁面標示目前價格 NT$22,400，原價 NT$28,000；含食宿、課程、裝備、保險。"
+      },
+      "description": "無手機、無固定行程表的戶外挑戰營，內容包含獨木舟、攀樹、戶外技能與服務學習。",
+      "registration_deadline": "2026-06-14",
+      "source_url": "https://obtaiwan.org/all-courses/2026-summercamp-classiccamp/",
+      "representative_image": {
+        "local_path": "images/01_outward_bound_classic.png",
+        "file_name": "01_outward_bound_classic.png",
+        "source_url": "https://obtaiwan.org/wp-content/uploads/2026/03/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2-2026-03-25-105658-1-1024x374.png",
+        "caption": "Outward Bound Taiwan 2026 經典營頁面代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-002",
+      "name": "2026年台南號角教會兒童夏令營",
+      "organizer": "台南號角教會",
+      "category": ["兒童營", "品格教育", "教會活動"],
+      "location": {
+        "city": "台南市",
+        "venue": "台南號角教會",
+        "address": "台南市中西區西湖街216號"
+      },
+      "dates": ["2026-07-02 至 2026-07-04"],
+      "time": "每日 14:00-17:00",
+      "target_age": "4歲以上至國中三年級學生",
+      "price": {
+        "amount_twd": 0,
+        "note": "活動頁標示完全免費。"
+      },
+      "description": "主題為「上帝眼中的祢：不同凡響」，活動包含品格教育、團隊合作、詩歌敬拜與音樂律動。",
+      "contact": "06-3583848",
+      "source_url": "https://event.oursweb.net/w/PgAa9Um4",
+      "representative_image": {
+        "local_path": "images/02_tainan_horn_church.jpg",
+        "file_name": "02_tainan_horn_church.jpg",
+        "source_url": "https://event.oursweb.net/uploads/20251114/653706467_1250568213913430_4250908138949417116_n_1774519947783.jpg",
+        "caption": "台南號角教會兒童夏令營海報"
+      }
+    },
+    {
+      "id": "tainan-camp-003",
+      "name": "魔法烘焙家 2026夏令營 小職人班",
+      "organizer": "WINWIN打包勝利／魔法烘焙DIY",
+      "category": ["烘焙", "小職人", "藝術創作"],
+      "location": {
+        "city": "台南市",
+        "venue": "魔法烘焙DIY",
+        "address": "台南市中西區民族路三段218號2樓"
+      },
+      "dates": [
+        "第1梯：2026-07-01 至 2026-07-03",
+        "第8梯：2026-08-17 至 2026-08-19"
+      ],
+      "time": "3日營，頁面未列每日完整時段",
+      "target_age": "升小三至升國一",
+      "price": {
+        "amount_twd": 7000,
+        "original_amount_twd": 8000,
+        "note": "頁面標示目前價格 NT$7,000，原價 NT$8,000。"
+      },
+      "description": "結合創意、美感與烘焙技巧，孩子從甜點製作、造型設計到細節裝飾，完成藝術烘焙作品。",
+      "source_url": "https://kids.biomedviews.com/product/%E9%AD%94%E6%B3%95%E7%83%98%E7%84%99%E5%AE%B6/",
+      "representative_image": {
+        "local_path": "images/03_magic_baking.webp",
+        "file_name": "03_magic_baking.webp",
+        "source_url": "https://kids.biomedviews.com/wp-content/uploads/2024/10/2026%E5%A4%8F%E4%BB%A4%E7%87%9F%E8%81%B7%E4%BA%BA%E7%8F%AD-%E9%AD%94%E6%B3%95%E7%83%98%E7%84%99DIY-ad-1.webp",
+        "caption": "魔法烘焙家課程代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-004",
+      "name": "3D自造夏令營 2026夏令營 小職人班",
+      "organizer": "WINWIN打包勝利",
+      "category": ["3D列印", "創客", "科技"],
+      "location": {
+        "city": "台南市",
+        "venue": "台南市東區教室",
+        "address": "台南市東區，詳細地址依報名頁通知"
+      },
+      "dates": [
+        "第1梯：2026-07-01 至 2026-07-03",
+        "第2梯：2026-07-08 至 2026-07-10",
+        "第3梯：2026-07-15 至 2026-07-17",
+        "第4梯：2026-07-22 至 2026-07-24",
+        "第5梯：2026-07-29 至 2026-07-31",
+        "第6梯：2026-08-05 至 2026-08-07",
+        "第7梯：2026-08-12 至 2026-08-14",
+        "第8梯：2026-08-19 至 2026-08-21",
+        "第9梯：2026-08-26 至 2026-08-28"
+      ],
+      "time": "09:00-17:00；接送時段 08:00-19:00",
+      "target_age": "升小二至升國二",
+      "price": {
+        "amount_twd": 7000,
+        "original_amount_twd": 8000,
+        "note": "頁面標示目前價格 NT$7,000，原價 NT$8,000。"
+      },
+      "description": "以玩具、生活小物與創意文具為主題，學習 3D 建模、模型修改與 3D 列印，三天每天都有作品。",
+      "source_url": "https://kids.biomedviews.com/product/3d%E8%87%AA%E9%80%A0%E5%A4%8F%E4%BB%A4%E7%87%9F-2026%E5%A4%8F%E4%BB%A4%E7%87%9F-%E5%B0%8F%E8%81%B7%E4%BA%BA%E7%8F%AD/",
+      "representative_image": {
+        "local_path": "images/04_3d_maker.webp",
+        "file_name": "04_3d_maker.webp",
+        "source_url": "https://kids.biomedviews.com/wp-content/uploads/2026/03/2026%E5%A4%8F%E4%BB%A4%E7%87%9F-3D%E8%87%AA%E9%80%A0-ad-8.webp",
+        "caption": "3D自造夏令營代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-005",
+      "name": "2026 Fun暑假夏令營 手作營基礎班",
+      "organizer": "Fun暑假夏令營",
+      "category": ["手作", "多元才藝", "校園營"],
+      "location": {
+        "city": "台南市",
+        "venue": "成功大學",
+        "address": "台南市東區，成功大學場地"
+      },
+      "dates": ["2026-07-06 至 2026-07-10"],
+      "time": "上午 09:00-12:00 動態及趣味課程；下午 13:20-16:30 主題手作課程",
+      "target_age": "適合第一次參加 Fun 暑假夏令營的小朋友；頁面未列明年級",
+      "price": {
+        "amount_twd": null,
+        "note": "頁面顯示「NT$ 起」，未列出明確金額；方案區顯示台南成功大學五日營。"
+      },
+      "description": "上午安排體操、跆拳、疊杯、團康桌遊、氣球魔術等；下午安排熱縮片、輕黏土、音樂盒、科學手作、手染 T-shirt 等主題手作。",
+      "source_url": "https://fun-camp.com.tw/cart/30",
+      "representative_image": {
+        "local_path": "images/05_fun_camp.jpg",
+        "file_name": "05_fun_camp.jpg",
+        "source_url": "https://fun-camp.com.tw/uploads/products/30/ffdec801d956a1c0a07444be67c1bf28.jpg",
+        "caption": "Fun暑假夏令營產品頁代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-006",
+      "name": "2026 臺南市新市全民運動中心 新動運動營",
+      "organizer": "臺南市新市全民運動中心",
+      "category": ["運動", "國小營", "室內活動"],
+      "location": {
+        "city": "台南市",
+        "venue": "中信科技大學體育館",
+        "address": "台南市新市區中華路49號"
+      },
+      "dates": [
+        "A1：2026-07-01 至 2026-07-03 樂樂棒營",
+        "A2：2026-07-06 至 2026-07-10 籃球營",
+        "A3：2026-07-13 至 2026-07-17 直排輪營",
+        "A4：2026-07-20 至 2026-07-24 躲避球×美式躲避球營",
+        "A5：2026-07-27 至 2026-07-31 桌球營",
+        "A6：2026-08-03 至 2026-08-07 排球×氣排球營",
+        "A7：2026-08-10 至 2026-08-14 躲避球×美式躲避球營",
+        "A8：2026-08-17 至 2026-08-21 樂樂棒營",
+        "A9：2026-08-24 至 2026-08-28 羽球營"
+      ],
+      "time": "每週一梯；頁面另列接送與托育服務",
+      "target_age": "國小一年級至六年級學童，以 2025 年 9 月在學年級為準",
+      "price": {
+        "amount_twd": 5000,
+        "note": "單週 NT$5,000；雙週 NT$4,500/週；九梯全報 NT$34,400。"
+      },
+      "description": "結合運動訓練與跨領域探索，內容包含主題運動、文創手作、魔術、食農教育、音樂律動與探索教育。",
+      "source_url": "https://www.beclass.com/rid%3D30525e069bd14c50a700",
+      "representative_image": {
+        "local_path": "images/06_xinshi_sports.jpg",
+        "file_name": "06_xinshi_sports.jpg",
+        "source_url": "https://www.beclass.com/share/202603/30525e069bd14c50a7000329r.jpg",
+        "caption": "新市全民運動中心新動運動營代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-007",
+      "name": "2026 國小生職業體驗夏令營 台南場",
+      "organizer": "職掘",
+      "category": ["職業體驗", "未來探索", "國小營"],
+      "location": {
+        "city": "台南市",
+        "venue": "台南文創園區，2D-3曙工坊、2C七七展演廳",
+        "address": "台南市東區北門路二段16號"
+      },
+      "dates": ["2026-07-13 至 2026-07-17"],
+      "time": "09:00-16:30，不過夜",
+      "target_age": "建議小三至小六",
+      "price": {
+        "amount_twd": 13800,
+        "original_amount_twd": 15800,
+        "note": "台南場頁面標示超早鳥價 NT$13,800，原價 NT$15,800。"
+      },
+      "description": "透過專業職人引導、興趣測驗與未來設計，讓孩子體驗多項職業並建立學習自信。",
+      "source_url": "https://vwsicamp.com/product/elementcamp-career/",
+      "representative_image": {
+        "local_path": "images/07_career_camp.jpg",
+        "file_name": "07_career_camp.jpg",
+        "source_url": "https://vwsicamp.com/wp-content/uploads/2026/01/2026%E5%A4%8F%E4%BB%A4%E7%87%9F%E4%B8%BB%E9%A1%8C-09-scaled.jpg",
+        "caption": "職掘國小生職業體驗夏令營代表圖"
+      }
+    },
+    {
+      "id": "tainan-camp-008",
+      "name": "小大人表達學院 2026夏令營 邏輯思維表達營 台南場",
+      "organizer": "小大人表達學院",
+      "category": ["表達力", "邏輯思辨", "兒童演說"],
+      "location": {
+        "city": "台南市",
+        "venue": "公園大道商務共享中心",
+        "address": "台南市永康區成功里中華路144-1號B1"
+      },
+      "dates": ["2026-08-10 至 2026-08-14"],
+      "time": "09:00-16:30",
+      "target_age": "6至12歲國小階段；平均落在小二至小六",
+      "price": {
+        "amount_twd": null,
+        "note": "公開頁面未列出明確費用。"
+      },
+      "description": "以原創故事和六頂思考帽為主軸，訓練表達力、邏輯思辨、咬字發音、聲音表情與上台自信。",
+      "source_url": "https://academy.kidadult.com.tw/courses/2026-logic-camp",
+      "representative_image": {
+        "local_path": "images/08_logic_expression.png",
+        "file_name": "08_logic_expression.png",
+        "source_url": "https://s.teachifycdn.com/image/width=2048,quality=80/course/cover_photo/d2e3cc87-29c5-4020-be38-4ce24267c6df/ca31bde5-0884-4e1c-b268-f0d3bd4eef7a.png",
+        "caption": "小大人表達學院 2026 夏令營課程封面"
+      }
+    },
+    {
+      "id": "tainan-camp-009",
+      "name": "千碩創新教育 2026國小夏令營 台南場",
+      "organizer": "千碩創新教育",
+      "category": ["AI", "STEAM", "醫學探究", "國小營"],
+      "location": {
+        "city": "台南市",
+        "venue": "千碩創新教育台南據點",
+        "address": "台南市北區成功路54號4樓之3"
+      },
+      "dates": [
+        "全台課表涵蓋 2026-07-06 至 2026-08-28 多週梯次；台南實際可報梯次以官網公告為準"
+      ],
+      "time": "全日課 09:00-12:00、13:30-16:30；半日課上午 09:00-12:00 或下午 13:30-16:30",
+      "target_age": "依課程而定：如 AI 繪本、AI 虛擬主播、醫學營多為小四至小六；牙醫營、中醫營多為小一至小三；ATP科技素養檢定分小一至小四級別",
+      "price": {
+        "amount_twd": null,
+        "note": "總覽頁未列出明確費用，需洽台南服務專線或官網表單。"
+      },
+      "description": "課程方向包含 AI數位創作、醫學探究與 STEAM 科技手作，例如 AI繪本大師、AI虛擬主播、ATP科技素養檢定、醫學營、牙醫營、中醫營、生物化學營。",
+      "contact": "06-2202-089",
+      "source_url": "https://www.tkbsteam.com.tw/lectures/inside?print_id=5180&str=3F8BE9D7116319ECA9A5443DFE8E8165",
+      "representative_image": {
+        "local_path": "images/09_tkbsteam.png",
+        "file_name": "09_tkbsteam.png",
+        "source_url": "https://i.ibb.co/7tK9rz2g/38.png",
+        "caption": "千碩創新教育 2026 國小夏令營總覽圖"
+      }
+    },
+    {
+      "id": "tainan-camp-010",
+      "name": "2026年第四十四屆大墩陽光兒童夏令營",
+      "organizer": "中華民國大墩教育推廣協會",
+      "category": ["綜合營隊", "科學", "藝術", "運動", "冒險"],
+      "location": {
+        "city": "台南市",
+        "venue": "台南場地依各營隊與報名網站公告",
+        "address": "詳細場地以大墩陽光報名網站為準"
+      },
+      "dates": ["2026-07-06 至 2026-08-28"],
+      "time": "依各營隊項目而定",
+      "target_age": "多數項目為國小生；冒險過夜營及偏鄉志工服務隊另提供國小、國高中組",
+      "price": {
+        "amount_twd": null,
+        "note": "學校公告未列出明確費用，需至報名網站查詢。"
+      },
+      "description": "營隊項目包含動物醫學院、小小烘焙師、動力積木、迪士尼美語表演、少年偵探隊、麥塊程式設計、漫畫、魔術、無人機、劍術、KPOP街舞、足球、籃球、冒險過夜營與志工服務隊。",
+      "source_url": "https://www.wces.tn.edu.tw/modules/school/index.php?content_id=44&department_id=5&page_id=43&type=news",
+      "registration_url": "https://www.sng.idv.tw/",
+      "representative_image": {
+        "local_path": "images/10_sng_sunshine.jpg",
+        "file_name": "10_sng_sunshine.jpg",
+        "source_url": "https://www.sng.idv.tw/Archive/_tw/camps/2603139857.jpg",
+        "caption": "大墩陽光報名網站營隊代表圖"
+      }
+    }
+  ]
+}

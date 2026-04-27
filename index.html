@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2026 台南夏令營精選推薦</title>
+    <meta name="description" content="2026年台南暑期夏令營精選清單，包含各式活動、科學營、烘焙、冒險探索等精彩營隊。">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&family=Noto+Sans+TC:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="background-elements">
+        <div class="glow-orb orb-1"></div>
+        <div class="glow-orb orb-2"></div>
+        <div class="glow-orb orb-3"></div>
+    </div>
+
+    <header class="hero">
+        <div class="hero-content">
+            <div class="badge">Summer 2026</div>
+            <h1 id="page-title">台南夏令營精選</h1>
+            <p id="page-description">為孩子尋找最適合的暑假回憶，從戶外冒險到科技創客，探索各式優質營隊。</p>
+        </div>
+    </header>
+
+    <main class="container">
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>載入營隊資訊中...</p>
+        </div>
+        
+        <div class="filters">
+            <button class="filter-btn active" data-filter="all">全部營隊</button>
+            <button class="filter-btn" data-filter="戶外冒險">戶外冒險</button>
+            <button class="filter-btn" data-filter="科技">科技 / STEAM</button>
+            <button class="filter-btn" data-filter="運動">運動</button>
+            <button class="filter-btn" data-filter="手作">手作 / 烘焙</button>
+            <button class="filter-btn" data-filter="兒童營">其他類別</button>
+        </div>
+
+        <div class="camp-grid" id="camp-container">
+            <!-- Cards will be dynamically inserted here -->
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 台南夏令營資訊收集整理</p>
+    </footer>
+
+    <!-- Lightbox Modal -->
+    <div id="lightbox" class="lightbox">
+        <button class="lightbox-close" aria-label="Close lightbox">&times;</button>
+        <div class="lightbox-content">
+            <img id="lightbox-img" src="" alt="營隊活動圖片">
+            <div class="lightbox-caption" id="lightbox-caption"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

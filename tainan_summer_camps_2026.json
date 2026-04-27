@@ -8,7 +8,8 @@
       "以下整理以公開網頁可查到的 2026 年暑期營隊資訊為主。",
       "費用、名額與場地可能變動，報名前仍應以各活動官方頁面為準。",
       "圖片為各活動頁或報名頁公開顯示的代表性圖片，已儲存在 images 目錄。",
-      "2026-04-27 追加 20 筆不重複營隊資料，來源包含小史塔克實驗室、全台攏學與 Fun暑假夏令營。"
+      "2026-04-27 追加 20 筆不重複營隊資料，來源包含小史塔克實驗室、全台攏學與 Fun暑假夏令營。",
+      "2026-04-27 已用瀏覽器逐頁核對並修正價格、時間、地點與對象；有來源頁衝突或未列明者以保守註記呈現。"
     ],
     "image_directory": "/Users/chunjoe1/Downloads/電腦/tainan_summer_camps/images"
   },
@@ -99,7 +100,7 @@
         "第1梯：2026-07-01 至 2026-07-03",
         "第8梯：2026-08-17 至 2026-08-19"
       ],
-      "time": "3日營，頁面未列每日完整時段",
+      "time": "09:00-17:00；接送時段 08:00-19:00",
       "target_age": "升小三至升國一",
       "price": {
         "amount_twd": 7000,
@@ -217,7 +218,7 @@
       "target_age": "國小一年級至六年級學童，以 2025 年 9 月在學年級為準",
       "price": {
         "amount_twd": 5000,
-        "note": "單週 NT$5,000；雙週 NT$4,500/週；九梯全報 NT$34,400。"
+        "note": "頁面文字列單週 NT$5,000、雙週 NT$4,500/週、九梯全報 NT$34,400；報名選項另列 A1 三日營 NT$3,000、九梯全報選項 NT$36,000，實際繳費金額以主辦單位通知為準。"
       },
       "description": "結合運動訓練與跨領域探索，內容包含主題運動、文創手作、魔術、食農教育、音樂律動與探索教育。",
       "source_url": "https://www.beclass.com/rid%3D30525e069bd14c50a700",
@@ -239,18 +240,18 @@
       ],
       "location": {
         "city": "台南市",
-        "venue": "台南文創園區，2D-3曙工坊、2C七七展演廳",
-        "address": "台南市東區北門路二段16號"
+        "venue": "台南場（不過夜；詳細場地以主辦單位公告或課前通知為準）",
+        "address": "台南市，詳細地址以主辦單位公告或課前通知為準"
       },
       "dates": [
         "2026-07-13 至 2026-07-17"
       ],
-      "time": "09:00-16:30，不過夜",
+      "time": "08:00-09:00 報到；09:00-16:15 課程；16:15-16:30 反思時間；16:30 家長接送，不過夜",
       "target_age": "建議小三至小六",
       "price": {
         "amount_twd": 13800,
         "original_amount_twd": 15800,
-        "note": "台南場頁面標示超早鳥價 NT$13,800，原價 NT$15,800。"
+        "note": "價目表列單人超早鳥 NT$13,800、早鳥 NT$14,800、晚鳥 NT$15,800；3 人團報 NT$12,800/人；舊生報名 NT$11,800。"
       },
       "description": "透過專業職人引導、興趣測驗與未來設計，讓孩子體驗多項職業並建立學習自信。",
       "source_url": "https://vwsicamp.com/product/elementcamp-career/",
@@ -281,8 +282,9 @@
       "time": "09:00-16:30",
       "target_age": "6至12歲國小階段；平均落在小二至小六",
       "price": {
-        "amount_twd": null,
-        "note": "公開頁面未列出明確費用。"
+        "amount_twd": 16800,
+        "note": "台南場早鳥方案 5/12 前報名 NT$16,800，原價 NT$21,800；2 人團購 NT$33,000。",
+        "original_amount_twd": 21800
       },
       "description": "以原創故事和六頂思考帽為主軸，訓練表達力、邏輯思辨、咬字發音、聲音表情與上台自信。",
       "source_url": "https://academy.kidadult.com.tw/courses/2026-logic-camp",
@@ -381,14 +383,14 @@
         "國小中高年級組：2026-07-13 至 2026-07-17",
         "國中組：2026-08-17 至 2026-08-21"
       ],
-      "time": "5日營，詳細每日時段依課程頁公告",
-      "target_age": "國小中高年級至國中生",
+      "time": "09:00-17:00",
+      "target_age": "9-17歲（升小四至國高中）；國小中高年級組與國高中組",
       "price": {
-        "amount_twd": 11000,
-        "note": "小史塔克 2026 暑假總覽頁標示 NT$11,000。"
+        "amount_twd": 9900,
+        "note": "小史塔克課程詳情頁標示 9,900元/人。"
       },
       "description": "以腦科學角度理解記憶、專注與讀書流程，五天整理出可持續使用的學習工具箱。",
-      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "source_url": "https://www.starklabtw.com/products/%E8%85%A6%E7%A7%91%E5%AD%B8%E8%AE%80%E6%9B%B8%E6%B3%95",
       "representative_image": {
         "local_path": "images/11_stark_brain_study.avif",
         "file_name": "11_stark_brain_study.avif",
@@ -413,14 +415,14 @@
       "dates": [
         "2026-07-13 至 2026-07-17"
       ],
-      "time": "5日營，詳細每日時段依課程頁公告",
-      "target_age": "8-12歲",
+      "time": "09:00-17:00",
+      "target_age": "10-15歲（升小五至國三）",
       "price": {
-        "amount_twd": 9000,
-        "note": "小史塔克 2026 暑假總覽頁標示 NT$9,000。"
+        "amount_twd": 16500,
+        "note": "小史塔克課程詳情頁標示 16,500元/人，含實驗材料與午餐。"
       },
       "description": "穿上白袍，用實作方式認識醫學與人體科學，適合國小階段孩子做職涯與科學探索。",
-      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "source_url": "https://www.starklabtw.com/products/medical",
       "representative_image": {
         "local_path": "images/12_stark_medical.jpg",
         "file_name": "12_stark_medical.jpg",
@@ -445,14 +447,14 @@
       "dates": [
         "2026-08-17 至 2026-08-21"
       ],
-      "time": "5日營，約 40 小時培訓",
-      "target_age": "10歲至高中生",
+      "time": "09:00-16:00",
+      "target_age": "10歲以上（設高中組與國中小混齡組）",
       "price": {
-        "amount_twd": 18000,
-        "note": "小史塔克 2026 暑假總覽頁標示 NT$18,000。"
+        "amount_twd": 16500,
+        "note": "小史塔克課程詳情頁標示 16,500元/人；入選後正式備賽集訓另行計費。"
       },
       "description": "以風力發電與能源設計為核心，培養 KidWind 亞洲聯賽儲備選手的實作與問題解決能力。",
-      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "source_url": "https://www.starklabtw.com/products/KidWindAsia",
       "representative_image": {
         "local_path": "images/13_stark_kidwind.jpg",
         "file_name": "13_stark_kidwind.jpg",
@@ -477,11 +479,11 @@
       "dates": [
         "2026-08-03 至 2026-08-07"
       ],
-      "time": "5日營，詳細每日時段依課程頁公告",
-      "target_age": "6-10歲，升小二至升小四",
+      "time": "09:00-17:00，五天不過夜，含午餐與點心",
+      "target_age": "6-9歲，升小一至升小四",
       "price": {
-        "amount_twd": 11000,
-        "note": "小史塔克 2026 暑假總覽頁標示玩轉學校系列 NT$11,000。"
+        "amount_twd": 13365,
+        "note": "玩轉學校頁面標示小史塔克團超早鳥六人團報價 NT$13,365。"
       },
       "description": "透過解謎與角色任務練習情緒辨識、表達與合作，是玩轉學校低年級組暑期課程。",
       "source_url": "https://starklabtw.1shop.tw/pleyschool2026summer",
@@ -509,11 +511,11 @@
       "dates": [
         "2026-08-03 至 2026-08-07"
       ],
-      "time": "5日營，詳細每日時段依課程頁公告",
-      "target_age": "10-14歲，升小五至國二",
+      "time": "09:00-17:00，五天不過夜，含午餐與點心",
+      "target_age": "10-15歲，升小五至國三",
       "price": {
-        "amount_twd": 11000,
-        "note": "小史塔克 2026 暑假總覽頁標示玩轉學校系列 NT$11,000。"
+        "amount_twd": 14985,
+        "note": "玩轉學校頁面標示小史塔克團超早鳥六人團報價 NT$14,985。"
       },
       "description": "以大型情境遊戲練習公共議題分析、談判與團隊決策，適合高年級到國中學生。",
       "source_url": "https://starklabtw.1shop.tw/pleyschool2026summer",
@@ -541,11 +543,11 @@
       "dates": [
         "2026-08-10 至 2026-08-14"
       ],
-      "time": "5日營，詳細每日時段依課程頁公告",
-      "target_age": "6-10歲，升小二至升小四",
+      "time": "09:00-17:00，五天不過夜，含午餐與點心",
+      "target_age": "6-9歲，升小一至升小四",
       "price": {
-        "amount_twd": 11000,
-        "note": "小史塔克 2026 暑假總覽頁標示玩轉學校系列 NT$11,000。"
+        "amount_twd": 13365,
+        "note": "玩轉學校頁面標示小史塔克團超早鳥六人團報價 NT$13,365。"
       },
       "description": "用議題式遊戲和體驗任務帶孩子踏出舒適圈，練習觀察、合作與表達。",
       "source_url": "https://starklabtw.1shop.tw/pleyschool2026summer",
@@ -573,11 +575,11 @@
       "dates": [
         "2026-08-10 至 2026-08-14"
       ],
-      "time": "5日營，詳細每日時段依課程頁公告",
-      "target_age": "10-14歲，升小五至國二",
+      "time": "09:00-17:00，五天不過夜，含午餐與點心",
+      "target_age": "10-15歲，升小五至國三",
       "price": {
-        "amount_twd": 11000,
-        "note": "小史塔克 2026 暑假總覽頁標示玩轉學校系列 NT$11,000。"
+        "amount_twd": 14985,
+        "note": "玩轉學校頁面標示小史塔克團超早鳥六人團報價 NT$14,985。"
       },
       "description": "從社會問題觀察出發，讓孩子以團隊方式提出創新方案，練習企劃、溝通與提案。",
       "source_url": "https://starklabtw.1shop.tw/pleyschool2026summer",
@@ -606,10 +608,10 @@
         "2026-08-03 至 2026-08-07"
       ],
       "time": "5日營，詳細每日時段依課程頁公告",
-      "target_age": "7-12歲",
+      "target_age": "6-12歲（升小一至升小六）",
       "price": {
-        "amount_twd": 9000,
-        "note": "小史塔克 2026 暑假總覽頁標示 NT$9,000；總覽頁標示此梯已包班。"
+        "amount_twd": null,
+        "note": "小史塔克 2026 暑假總覽頁確認此梯已包班且不開放個別報名；目前公開頁面未列明確費用。"
       },
       "description": "以恐龍與化石考古為主題，透過科學觀察與實作任務建立自然史探索經驗。",
       "source_url": "https://www.starklabtw.com/2026CrazySummer",
@@ -637,14 +639,14 @@
       "dates": [
         "2026-08-10 至 2026-08-14"
       ],
-      "time": "5日營，詳細每日時段依課程頁公告",
-      "target_age": "8-12歲",
+      "time": "09:00-16:00，含 1 小時午休",
+      "target_age": "6-12歲（升小二至升小六）",
       "price": {
-        "amount_twd": 9000,
-        "note": "小史塔克 2026 暑假總覽頁標示 NT$9,000。"
+        "amount_twd": 9900,
+        "note": "小史塔克課程詳情頁標示 9,900元/人，含全程實驗材料費及每日午餐。"
       },
       "description": "精選國小自然科學實驗，讓孩子透過操作、觀察與記錄建立科學探究能力。",
-      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "source_url": "https://www.starklabtw.com/products/elemantary",
       "representative_image": {
         "local_path": "images/19_stark_elementary_science.avif",
         "file_name": "19_stark_elementary_science.avif",
@@ -669,14 +671,14 @@
       "dates": [
         "2026-08-24 至 2026-08-28"
       ],
-      "time": "5日營，詳細每日時段依課程頁公告",
-      "target_age": "8-12歲",
+      "time": "09:00-16:00，含 1 小時午休",
+      "target_age": "6-12歲（升小二至升小六）",
       "price": {
-        "amount_twd": 9000,
-        "note": "小史塔克 2026 暑假總覽頁標示 NT$9,000。"
+        "amount_twd": 9900,
+        "note": "小史塔克課程詳情頁標示 9,900元/人，含全程實驗材料費及每日午餐。"
       },
       "description": "延伸國小自然實驗精選系列，以動手做的方式補強自然科概念與實驗技能。",
-      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "source_url": "https://www.starklabtw.com/products/elemantary",
       "representative_image": {
         "local_path": "images/19_stark_elementary_science.avif",
         "file_name": "19_stark_elementary_science.avif",
@@ -701,14 +703,14 @@
       "dates": [
         "2026-07-06 至 2026-07-10"
       ],
-      "time": "5日營，詳細每日時段依課程頁公告",
-      "target_age": "升國三，準備科學班考試學生",
+      "time": "09:00-17:00",
+      "target_age": "13 – 15 歲（升國一 ～ 高一）",
       "price": {
-        "amount_twd": 9000,
-        "note": "小史塔克 2026 暑假總覽頁標示 NT$9,000。"
+        "amount_twd": 16800,
+        "note": "小史塔克課程詳情頁標示 16,800元/人。"
       },
       "description": "針對科學班考試需求設計的實驗與科學能力集訓，協助學生整理操作與應試基礎。",
-      "source_url": "https://www.starklabtw.com/2026CrazySummer",
+      "source_url": "https://www.starklabtw.com/products/seniorscience",
       "representative_image": {
         "local_path": "images/21_stark_senior_science.avif",
         "file_name": "21_stark_senior_science.avif",
@@ -734,7 +736,7 @@
         "2026-07-10 至 2026-07-12"
       ],
       "time": "依課程頁公告",
-      "target_age": "高中生／13歲以上，詳見課程頁",
+      "target_age": "社會大眾、15歲以上",
       "price": {
         "amount_twd": 9900,
         "note": "全台攏學課程頁標示 NT$9,900。"
@@ -764,10 +766,11 @@
         "address": "台南市北區成大成杏校區小東路55號5F教室與實驗室"
       },
       "dates": [
-        "2026-07-02 至 2026-08-23（7月一梯、8月二梯）"
+        "第1梯：2026-07-02 至 2026-07-05",
+        "第2梯：2026-08-22 至 2026-08-25"
       ],
       "time": "依課程頁公告",
-      "target_age": "高中生／13歲以上，詳見課程頁",
+      "target_age": "12-15歲國中、15-18歲高中、18-22歲大學",
       "price": {
         "amount_twd": 12800,
         "note": "全台攏學課程頁標示 NT$12,800。"
@@ -800,7 +803,7 @@
         "2026-07-10 至 2026-07-13"
       ],
       "time": "依課程頁公告",
-      "target_age": "高中生／13歲以上，詳見課程頁",
+      "target_age": "12-15歲國中、15-18歲高中、18-22歲大學",
       "price": {
         "amount_twd": 11800,
         "note": "全台攏學課程頁標示 NT$11,800。"
@@ -833,7 +836,7 @@
         "2026-07-10 至 2026-07-13"
       ],
       "time": "依課程頁公告",
-      "target_age": "高中生／13歲以上，詳見課程頁",
+      "target_age": "12-15歲國中、15-18歲高中、18-22歲大學",
       "price": {
         "amount_twd": 11800,
         "note": "全台攏學課程頁標示 NT$11,800。"
@@ -863,10 +866,11 @@
         "address": "台南市東區成大勝利校區大學路2號／太子文旅集合"
       },
       "dates": [
-        "2026-07-07 至 2026-08-27（7月一梯、8月二梯）"
+        "第1梯：2026-07-07 至 2026-07-09",
+        "第2梯：2026-08-25 至 2026-08-27"
       ],
       "time": "依課程頁公告",
-      "target_age": "高中生／13歲以上，詳見課程頁",
+      "target_age": "12-15歲國中、15-18歲高中、18-22歲大學",
       "price": {
         "amount_twd": 10800,
         "note": "全台攏學課程頁標示 NT$10,800。"
@@ -899,7 +903,7 @@
         "2026-07-14 至 2026-07-17"
       ],
       "time": "依課程頁公告",
-      "target_age": "高中生／13歲以上，詳見課程頁",
+      "target_age": "12-15歲國中、15-18歲高中、18-22歲大學",
       "price": {
         "amount_twd": 12000,
         "note": "全台攏學課程頁標示 NT$12,000。"
@@ -932,7 +936,7 @@
         "2026-07-10 至 2026-07-13"
       ],
       "time": "依課程頁公告",
-      "target_age": "高中生／13歲以上，詳見課程頁",
+      "target_age": "15歲以上",
       "price": {
         "amount_twd": 11800,
         "note": "全台攏學課程頁標示 NT$11,800。"
@@ -965,7 +969,7 @@
         "2026-07-03 至 2026-07-06"
       ],
       "time": "依課程頁公告",
-      "target_age": "高中生／13歲以上，詳見課程頁",
+      "target_age": "12-15歲國中、15-18歲高中、18-22歲大學",
       "price": {
         "amount_twd": 11800,
         "note": "全台攏學課程頁標示 NT$11,800。"
